@@ -1,1 +1,1 @@
-# codechef-Rohan-with-sticks
+# codechef
